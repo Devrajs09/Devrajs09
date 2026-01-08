@@ -64,5 +64,5 @@ I am currently transitioning into advanced Game Design, with a focus on horror s
 ### 📫 Connect with Me
 
 * **Email:** devsalvi.design@gmail.com
-* **Portfolio:** [Link to your Portfolio]
-* **LinkedIn:** [Link to your LinkedIn]
+* **Portfolio:** [[Link to your Portfolio]](https://devsalvidesign.myportfolio.com/)
+* **LinkedIn:** (https://www.linkedin.com/in/devraj-salvi-aa5a2217a/)
