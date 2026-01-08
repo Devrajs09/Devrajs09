@@ -1,15 +1,68 @@
-# 💫 About Me:
-Devraj (Dev) Salvi Lead Game Designer & Published Author Based in Kolhapur, India, you are a creative professional blending visual design with interactive storytelling.<br><br><br>Professional Impact: As a Lead Designer at Exhibit Supply (Fresno, CA), you don't just design; you drive results—your redesign of event booth kits increased orders by 20%.<br>+1<br><br><br>Education: You hold a B.Sc. in Multimedia & Animation (GPA 8.0/10) from Sikkim Professional University. You also completed a Diploma in Animation & Multimedia with an A Grade (84%) (noted as Distinction in your CV).<br>+1<br><br>Published Creator:<br><br><br>Research: You published a paper in the IJIRT on "Raya - The Harbinger of Fear," a Valorant-inspired character with horror mechanics, bridging your love for e-sports and design.<br><br><br>Literature: You are the author of the self-published horror novel "A Crowd with No Faces," available on Amazon Kindle.<br><br><br>Certifications: You have specialized training in Game Design from Michigan State University and CalArts
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Devraj Salvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Devraj Salvi](https://www.linkedin.com/in/devraj-salvi-aa5a2217a/)https://www.linkedin.com/in/devraj-salvi-aa5a2217a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsalvi.design@gmail.com) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= Devrajs09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= Devrajs09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= Devrajs09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Hi there, I'm Devraj (Dev) Salvi! 👋
+
+**Lead Game Designer | Visual Storyteller | Horror Enthusiast**
+
+I am a creative professional based in **Kolhapur, India**, currently working as a **Lead Designer** at **Exhibit Supply** (Fresno, CA). My passion lies in blending immersive visual storytelling with interactive game mechanics.
+
+I am currently transitioning into advanced Game Design, with a focus on horror survival mechanics and narrative design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id= Devrajs09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Tools
+
+* **Game Engines:** Unreal Engine, Unity
+* **3D & Motion:** Blender, After Effects
+* **Design:** Adobe Creative Suite (Ps, Ai, Id)
+* **Core Skills:** Narrative Design, Level Design, Concept Art, Team Leadership
+
+---
+
+### 🔭 Projects & Publications
+
+| Type | Project Name | Description |
+| :--- | :--- | :--- |
+| 📖 **Novel** | **A Crowd with No Faces** | A self-published psychological horror novel available on Amazon Kindle worldwide. |
+| 📝 **Research** | **Raya - The Harbinger of Fear** | A Valorant-inspired agent concept with horror mechanics. Published in *IJIRT* (Vol 12, Issue 6). |
+| 🎮 **Demo** | **Unity Combat Demo** | An interactive demo combining real-time combat and puzzles, playtested by 150+ users. |
+
+---
+
+### 💼 Professional Experience
+
+**Lead Designer @ Exhibit Supply (Fresno, CA | Remote)**
+* *Oct 2022 - Present*
+* Led product display campaigns and redesigned event booth kits, increasing orders by **20%**.
+* Created custom visuals and canopy wraps, driving high engagement on social media.
+
+**Animator & Designer @ Eminent Digitals (Pune, India)**
+* *Sep 2019 - Oct 2022*
+* Produced 50+ animations for games and marketing.
+* Contributed to 3 full-scale game development projects.
+
+---
+
+### 🎓 Education
+
+* **M.S. in Game Design and Development** (Incoming Fall 2026)
+    * *Rochester Institute of Technology (RIT)* - Scholarship Recipient
+* **B.Sc. in Multimedia & Animation**
+    * *Sikkim Professional University* (GPA: 8.0/10)
+* **Diploma in Animation & Multimedia**
+    * *Visual Effects, Design & Arts (VEDA)*
+    * **Grade: A (84% / Distinction)**
+
+---
+
+### 📜 Certifications
+
+* **Game Design and Development** - Michigan State University
+* **Game Design Professional Certificate** - Epic Games
+* **World Design for Video Games** - CalArts
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** devsalvi.design@gmail.com
+* **Portfolio:** [Link to your Portfolio]
+* **LinkedIn:** [Link to your LinkedIn]
